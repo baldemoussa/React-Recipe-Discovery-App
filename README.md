@@ -1,6 +1,6 @@
 # SBA 7: Recipe Discovery App
 
-## By Mamadou Moussa Balde
+## By [Mamadou Moussa Balde](https://www.linkedin.com/in/2mb/)
 
 This is a Vite, React, and TypeScript app. The tab title is "Recipe Discovery". Recipes come from TheMealDB, so the page needs a network connection. Favorites are saved in this browser under the `localStorage` key `favoriteRecipeIds`.
 
